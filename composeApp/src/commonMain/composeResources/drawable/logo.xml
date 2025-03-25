@@ -1,0 +1,62 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Background -->
+    <path
+        android:fillColor="#4a86e8"
+        android:pathData="M40,0L160,0A40,40 0,0 1,200 40L200,160A40,40 0,0 1,160 200L40,200A40,40 0,0 1,0 160L0,40A40,40 0,0 1,40 0z" />
+
+    <!-- Clipboard -->
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M65,50L135,50A5,5 0,0 1,140 55L140,155A5,5 0,0 1,135 160L65,160A5,5 0,0 1,60 155L60,55A5,5 0,0 1,65 50z" />
+
+    <!-- Clipboard inside area -->
+    <path
+        android:fillColor="#e6e6e6"
+        android:pathData="M72,60L128,60A2,2 0,0 1,130 62L130,148A2,2 0,0 1,128 150L72,150A2,2 0,0 1,70 148L70,62A2,2 0,0 1,72 60z" />
+
+    <!-- Clip at top of clipboard -->
+    <path
+        android:fillColor="#f44336"
+        android:pathData="M95,40L105,40A5,5 0,0 1,110 45L110,55A5,5 0,0 1,105 60L95,60A5,5 0,0 1,90 55L90,45A5,5 0,0 1,95 40z" />
+
+    <!-- Brain in clipboard -->
+    <path
+        android:fillColor="#9c27b0"
+        android:pathData="M85,75 C85,65 95,60 100,65 C105,60 115,65 115,75 C125,80 125,90 115,95 C125,100 125,110 115,115 C115,125 105,130 100,125 C95,130 85,125 85,115 C75,110 75,100 85,95 C75,90 75,80 85,75z" />
+
+    <!-- Memory lines -->
+    <path
+        android:strokeColor="#ffffff"
+        android:strokeWidth="2"
+        android:pathData="M80,75L75,75" />
+
+    <path
+        android:strokeColor="#ffffff"
+        android:strokeWidth="2"
+        android:pathData="M80,95L75,95" />
+
+    <path
+        android:strokeColor="#ffffff"
+        android:strokeWidth="2"
+        android:pathData="M80,115L75,115" />
+
+    <path
+        android:strokeColor="#ffffff"
+        android:strokeWidth="2"
+        android:pathData="M120,75L125,75" />
+
+    <path
+        android:strokeColor="#ffffff"
+        android:strokeWidth="2"
+        android:pathData="M120,95L125,95" />
+
+    <path
+        android:strokeColor="#ffffff"
+        android:strokeWidth="2"
+        android:pathData="M120,115L125,115" />
+</vector>
